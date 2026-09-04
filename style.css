@@ -63,6 +63,8 @@ li{
 #article-1 p{
     color: white;
     font-size: large;
+    font-family: 'Times New Roman', 'serif';
+    font-weight:bold
 }
 
 #article-1 h1 {
@@ -81,6 +83,12 @@ li{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 2px 2px 4px rgba(136, 134, 134, 0.7);
+}
+
+#article-2 p{
+    font-size: medium;
+    font-family: 'Times New Roman', 'serif';
+    font-weight:bold
 }
 
 #grid-container{
@@ -145,8 +153,10 @@ footer{
 }
 footer h3{
     text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', 'serif';
+    font-weight:bold
 }
-
 
 .headings{
     display: flex;
